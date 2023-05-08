@@ -2,6 +2,9 @@
 In Today's project we have built a pizza delivering application with React Js using styled components with react-icons and the result was a very clean and modern application. The website is fully responsive and mobile fist with a cool sidebar feature!
 
 
+![pizza-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/236934691-a65dbf79-bd7c-4df4-b0d2-d6e36b272c53.gif)
+
+
 
 
 
